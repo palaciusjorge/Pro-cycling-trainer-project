@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+beautifulsoup4
+geopy
+shapely
+folium
+plotly
+scikit-learn
+streamlit
