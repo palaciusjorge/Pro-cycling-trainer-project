@@ -1,0 +1,4 @@
+stage_id,race,year,stage_number,stage_name,region,distance_km,stage_type,start_city,end_city,training_focus,estimated_duration_h
+VUE2023_07,La Vuelta,2023,7,Utiel - Oliva,Valencia,201,flat,Utiel,Oliva,llano_potencia,5.2894736842105265
+VUE2022_04,La Vuelta,2022,4,Vitoria - Laguardia,País Vasco,152,flat,Vitoria-Gasteiz,Laguardia,llano_potencia,4.0
+VUE2021_01,La Vuelta,2021,1,Burgos - Burgos (CRI),Castilla y León,7,tt,Burgos,Burgos,contrarreloj,0.18421052631578946
