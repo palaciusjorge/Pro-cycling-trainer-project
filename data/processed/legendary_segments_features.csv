@@ -1,5 +1,0 @@
-segment_id,name,race,year,start_location,end_location,distance_km,elevation_gain_m,avg_gradient,max_gradient,type,difficulty_score,difficulty_level
-1,Alpe d'Huez Final,Tour de France,2018,Bourg d'Oisans,Alpe d'Huez,13.8,1100,8.1,11.5,climb,0.5957888888888889,intermedia
-2,Angliru Final,Vuelta a España,2020,La Vega,Rioséu,12.5,1250,10.0,23.5,climb,0.7340555555555556,dura
-3,Mont Ventoux Classic,Tour de France,2013,Bédoin,Mont Ventoux,21.5,1600,7.5,12.0,climb,0.742611111111111,dura
-4,Pavé Carrefour de l'Arbre,Paris-Roubaix,2021,Camphin-en-Pévèle,Carrefour de l'Arbre,2.1,15,0.7,5.0,cobbles,0.06721666666666667,suave

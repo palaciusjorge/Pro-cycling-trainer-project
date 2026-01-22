@@ -62,7 +62,7 @@ pro_cycling_trainer/
 
 - **OpenRouteService / GraphHopper** – generación de rutas y geometría  
 - **OpenTopography / Elevation APIs** – perfiles de altitud y desnivel  
-- **ProCyclingStats (scraping controlado)** – información histórica de etapas profesionales  
+- **ProCyclingStats** – información histórica de etapas profesionales  
 - **OpenStreetMap** – red viaria y datos geográficos  
 
 ---

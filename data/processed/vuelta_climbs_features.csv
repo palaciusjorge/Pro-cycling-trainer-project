@@ -1,0 +1,26 @@
+climb_id,name,profile_score,length_km,avg_gradient,profile_score_norm,length_km_norm,avg_gradient_norm,difficulty_score,difficulty_level
+VHC01,Puerto de Larrau,367.4,15.1,7.8,1.0,0.48,0.4,0.72,dura
+VHC02,Altu de l'Angliru,353.9,12.5,10.0,0.93,0.37,0.66,0.71,dura
+VHC03,Col de Soudet,343.0,15.59,6.9,0.87,0.5,0.29,0.65,dura
+VHC04,Sierra Nevada (Hoya de la Mora),336.3,19.4,7.9,0.84,0.66,0.41,0.7,dura
+VHC05,Alto de Peñas Blancas,291.7,20.03,6.3,0.61,0.69,0.22,0.56,dura
+VHC06,Col du Tourmalet,278.0,19.0,7.4,0.54,0.65,0.35,0.53,dura
+VHC07,Lagos de Covadonga,255.0,13.0,6.8,0.42,0.39,0.28,0.38,intermedia
+VHC08,Col d'Hourcère,254.6,11.6,8.3,0.42,0.33,0.46,0.4,intermedia
+VHC09,Sierra de La Pandera,244.2,20.72,5.5,0.36,0.72,0.13,0.42,dura
+VHC10,Col d'Aubisque,235.9,16.5,7.2,0.32,0.54,0.33,0.39,intermedia
+VHC11,Port d'Envalira,231.8,27.3,5.1,0.3,1.0,0.08,0.47,dura
+VHC12,Sierra Nevada (Monachil),221.3,23.37,5.8,0.24,0.83,0.16,0.4,intermedia
+VHC13,Puerto de San Lorenzo,219.6,9.82,8.6,0.23,0.26,0.49,0.29,intermedia
+VHC14,Alto de Javalambre,215.8,11.84,7.5,0.21,0.34,0.36,0.28,intermedia
+VHC15,Calar Alto,213.9,17.34,5.6,0.2,0.58,0.14,0.3,intermedia
+VHC16,Puerto de San Glorio,204.8,26.79,4.8,0.16,0.98,0.05,0.38,intermedia
+VHC17,Col de Spandelles,197.6,10.4,8.2,0.12,0.28,0.45,0.23,suave
+VHC18,Colláu Fancuaya,196.0,10.2,7.8,0.11,0.27,0.4,0.22,suave
+VHC19,Alto de Velefique,194.0,12.84,7.3,0.1,0.38,0.34,0.23,suave
+VHC20,Picón Blanco,193.6,8.3,9.1,0.1,0.19,0.55,0.22,suave
+VHC21,Port del Cantó,186.7,24.79,4.4,0.06,0.89,0.0,0.3,intermedia
+VHC22,Puerto de la Cruz de Linares,186.7,8.3,8.6,0.06,0.19,0.49,0.19,suave
+VHC23,Alto del Purche,185.5,8.94,7.7,0.06,0.22,0.39,0.17,suave
+VHC24,Puerto de Alisas,182.0,8.1,6.4,0.04,0.18,0.24,0.12,suave
+VHC25,Les Praeres,174.4,3.8,12.9,0.0,0.0,1.0,0.2,suave

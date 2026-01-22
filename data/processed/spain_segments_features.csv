@@ -1,7 +1,0 @@
-segment_id,name,race,year,start_location,end_location,start_lat,start_lon,end_lat,end_lon,distance_km,elevation_gain_m,avg_gradient,max_gradient,type,region,difficulty_score,difficulty_level
-1,Angliru Final,Vuelta a España,2020,La Vega,Rioséu,43.222,-5.977,43.207,-5.889,12.5,1250,10.0,23.5,climb,Asturias,0.7340555555555556,dura
-2,Lagos de Covadonga Final,Vuelta a España,2021,Cangas de Onís,Lagos de Covadonga,43.35,-5.13,43.266,-4.989,12.2,1050,8.7,13.5,climb,Asturias,0.6002666666666666,dura
-3,La Farrapona Final,Vuelta a España,2014,Pola de Somiedo,La Farrapona,43.087,-6.26,43.061,-6.206,16.7,1500,6.7,12.0,climb,Asturias,0.6647666666666666,dura
-4,La Bola del Mundo Final,Vuelta a España,2012,Navacerrada,Bola del Mundo,40.787,-4.004,40.798,-3.977,11.5,950,8.2,18.0,climb,Madrid,0.5897222222222223,intermedia
-5,Alto de l'Alt de Rates,Vuelta a España,2015,Parcent,Alt de Rates,38.746,-0.03,38.773,0.017,6.5,350,5.4,10.0,climb,Valencia,0.31505555555555553,intermedia
-6,Pico Villuercas Final,Vuelta a España,2010,Guadalupe,Pico Villuercas,39.43,-5.324,39.458,-5.243,13.9,1100,7.9,16.0,climb,Extremadura,0.618588888888889,dura
